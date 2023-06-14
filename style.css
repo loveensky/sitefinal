@@ -1,0 +1,174 @@
+body{
+    margin: 0px;
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    font-family: arial;
+    color: white;
+}
+li{
+    font-size: 30px;
+    font-family: arial;
+    color: white;
+}
+p{
+    font-size: 40px;
+    font-family: arial;
+    color: white;
+}
+#inicio{
+    width: 207vh;
+    height: 100vh;
+    background: url(alx_459552285_original.webp);
+    background-size: cover;
+}
+.bola{
+    position: absolute;
+    bottom: 100px;
+    left: 250px;
+    width: 250px;
+    height: 250px;
+}
+.bola2{
+    position: absolute;
+    bottom: 300px;
+    left: 50px;
+    width: 250px;
+    height: 250px;
+}
+.bola3{
+    position: absolute;
+    bottom: 100px;
+    right: 250px;
+    width: 250px;
+    height: 250px;
+}
+.bola4{
+    position: absolute;
+    bottom: 300px;
+    right: 50px;
+    width: 250px;
+    height: 250px;
+}
+.bola1-1{
+    position: absolute;
+    bottom: 120px;
+    left: 320px;
+   font-size: 50px;
+   color: white;
+   font-family: fantasy;
+}
+.bola2-1{
+    position: absolute;
+    bottom: 320px;
+    left: 80px;
+    font-size: 50px;
+    color: white;
+    font-family: fantasy;
+}
+.bola3-1{
+    position: absolute;
+    bottom: 120px;
+    right: 270px;
+    font-size: 40px;
+    color: white;
+    font-family: fantasy;
+}
+.bola4-1{
+    position: absolute;
+    bottom: 330px;
+    right: 50px;
+    font-size: 35px;
+    color: white;
+    font-family: fantasy;
+}
+.textoh{
+    font-size: 25px;
+    font-family: arial;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 550px;
+}
+.hist1{
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    width: 450px;
+    height: 300px;
+}
+.hist2{
+    position: absolute;
+    top: 370px;
+    right: 40px;
+    width: 450px;
+    height: 300px;
+}
+.hist3{
+    position: absolute;
+    top: 700px;
+    right: 40px;
+    width: 450px;
+    height: 300px;
+}
+.textos{
+    font-size: 25px;
+    font-family: arial;
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    left: 550px;
+}
+.textos2{
+    font-size: 25px;
+    font-family: arial;
+    color: white;
+    position: absolute;
+    top: 450px;
+    left: 20px;
+    right: 850px;
+}
+.imasobre{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 450px;
+    height: 400px;
+}
+.imasobre2{
+    position: absolute;
+    top:500px;
+    right: 40px;
+    width: 350px;
+    height: 300px;
+}
+.imasobre3{
+    position: absolute;
+    top: 500px;
+    left: 550px;
+    width: 350px;
+    height: 300px;
+}
+.Jordan{
+    width: 800px;
+    height: 600px;
+}
+.jam{
+    width: 800px;
+    height: 600px;
+}
+.jar{
+    width: 800px;
+    height: 600px;
+}
+.mag{
+    width: 800px;
+    height: 600px;
+}
+.larry{
+    width: 800px;
+    height: 600px;
+}
